@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationComponentTesto</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="trivia">Trivia</string>
+    <string name="android">Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bienvenido">What color is the Android mascot?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="pink">Pink</string>
+    <string name="red">Red</string>
+    <string name="try_again">Try again</string>
+    <string name="try_again_button">Try again?</string>
+    <string name="next_match">Next match</string>
+    <string name="you_won">You won!!</string>
+</resources>
